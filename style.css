@@ -16,9 +16,9 @@ html, body {
 
 body {
   align-items: center;
-  background-color: #e5e5e5;
+  background-color: #f8f9fa;
   display: flex;
-  font-family: Montserrat;
+  font-family: Montserrat, sans-serif;
 }
 
 .container {
